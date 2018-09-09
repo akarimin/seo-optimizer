@@ -1,7 +1,7 @@
 
-## Seo-Optimizer ## 
+## seo-optimizer ## 
 
-application scores the keyword provided as an input based on return values of [Amazon Completion Api] http://completion.amazon.com/search/ character by character.
+The application scores the keyword provided as an input based on return values of [Amazon Completion Api] http://completion.amazon.com/search/ character by character.
 
 The final score is calculated in 3 steps:
 
