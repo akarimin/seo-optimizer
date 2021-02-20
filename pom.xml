@@ -20,7 +20,7 @@
         <spring.version>4.3.7.RELEASE</spring.version>
         <spring.boot.starter.version>1.5.2.RELEASE</spring.boot.starter.version>
         <spring.boot.test.starter.version>1.5.7.RELEASE</spring.boot.test.starter.version>
-        <jackson.version>2.9.5</jackson.version>
+        <jackson.version>2.12.1</jackson.version>
         <junit.version>4.12</junit.version>
     </properties>
 
