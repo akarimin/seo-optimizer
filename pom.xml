@@ -21,7 +21,7 @@
         <spring.boot.starter.version>1.5.2.RELEASE</spring.boot.starter.version>
         <spring.boot.test.starter.version>1.5.7.RELEASE</spring.boot.test.starter.version>
         <jackson.version>2.9.5</jackson.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <dependencies>
